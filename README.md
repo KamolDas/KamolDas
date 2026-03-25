@@ -59,7 +59,7 @@ I’m looking to collaborate on:
 ## 📫 Contact Me
 
 - 📧 Email: *kamol.mbio@gmail.com*  
-- 📞 Phone: *01775510351*  
+- 📞 Phone: *01775-510351*  
 
 ---
 
