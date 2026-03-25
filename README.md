@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/banner.jpeg" width="100%" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KamolDas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="KamolDas" />
+</p>
 # 👋 Hi there, I'm Kamol Das
 
 🎓 **MS in Microbiology**  
