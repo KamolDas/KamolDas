@@ -3,7 +3,7 @@
 🎓 **MS in Microbiology**  
 University of Chittagong, Bangladesh  
 <p align="center">
-  <img src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/540711305_751102467904858_1714867508984051947_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=2a1932&_nc_ohc=Oq8ZZPX5MfYQ7kNvwFLVMxQ&_nc_oc=Adr3rj-7xqsM1L5il-QBeJwL9thh7BqmGD3VsK2mCsZXSLLjJlb-vYbvn0EABYdnr1k&_nc_zt=23&_nc_ht=scontent.fcgp27-1.fna&_nc_gid=Wi3wikLOg7-ZVqc2leUX0Q&_nc_ss=7a32e&oh=00_AfzlcYogLx3PTM4wIWDr153LDzNtxuC9Ua02znovJdZkgA&oe=69C99B0F" width="550" style="border-radius:50%;" alt="Kamol Das">
+  <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/banner.png" width="100%" />
 </p>
 ---
 
