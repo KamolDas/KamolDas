@@ -3,7 +3,7 @@
 🎓 **MS in Microbiology**  
 University of Chittagong, Bangladesh  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/Banner.png" width="100%" />
 </p>
 ---
 
