@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/Banner.png" width="100%" />
+</p>
 # 👋 Hi there, I'm Kamol Das
 
 🎓 **MS in Microbiology**  
 University of Chittagong, Bangladesh  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KamolDas/KamolDas/main/Banner.png" width="100%" />
-</p>
+
 ---
 
 ## 🧬 About Me
