@@ -2,7 +2,9 @@
 
 🎓 **MS in Microbiology**  
 University of Chittagong, Bangladesh  
-
+<p align="center">
+  <img src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/540711305_751102467904858_1714867508984051947_n.jpg" width="250" style="border-radius:50%;" alt="Kamol Das">
+</p>
 ---
 
 ## 🧬 About Me
