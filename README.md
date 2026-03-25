@@ -1,21 +1,80 @@
-### Hi there 👋, I am Kamol Das
-#### MS in Microbiology at the University of Chittagong.
-![MS student in Microbiology,Department of Microbiology,University of Chittagong.]
+# 👋 Hi there, I'm Kamol Das
 
-I am Kamol Das, a dedicated Microbiology graduate from the University of Chittagong with a solid academic background and hands-on experience in microbiological laboratory techniques. I have a strong interest in research,research and development, bioinformatics, pharmaceuticals, and biotechnology, with a growing passion for data analysis and quality control. I am also proficient in essential IT tools including Microsoft Office, programming basics in C and Python, Arduino-based projects, and statistical analysis using R. I am fluent in English and Bangla, with conversational knowledge of Hindi. I am currently seeking opportunities where I can contribute to innovative scientific work, apply my technical knowledge, and continuously grow both professionally and personally.
+🎓 **MS in Microbiology**  
+University of Chittagong, Bangladesh  
 
-Skills:  • MS Word, PowerPoint, Excel • C,Arduino(project),Python,R programme (basic data analysis) • Internet Research & Online Journal Access
+---
 
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on git 
-- 📫 How to reach me: Call,Gmail,GitHub,Social media 
+## 🧬 About Me
 
+I am a dedicated Microbiology graduate with strong academic knowledge and hands-on laboratory experience. I have a deep interest in:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KamolDas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamol-das-1h-7a4b0b1b7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamol.das.5473)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kd_kamol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pujacomputers.github.io/)  
+- 🔬 Research & Development  
+- 🧪 Biotechnology & Pharmaceuticals  
+- 💻 Bioinformatics & Data Analysis  
+- 📊 Quality Control  
 
+I am passionate about applying scientific knowledge to real-world challenges and continuously improving my technical and analytical skills.
 
+---
 
+## 🚀 Skills & Tools
 
+### 💻 Technical Skills
+- MS Word, Excel, PowerPoint  
+- C Programming (Basic)  
+- Python (Basic)  
+- R (Statistical Analysis)  
+- Arduino Projects  
 
+### 🔬 Research Skills
+- Microbiological Lab Techniques  
+- Data Analysis  
+- Internet Research & Journal Access  
 
+### 🌐 Languages
+- 🇬🇧 English (Fluent)  
+- 🇧🇩 Bangla (Native)  
+- 🇮🇳 Hindi (Conversational)  
 
+---
+
+## 🔭 Current Focus
+- Working on improving my GitHub profile  
+- Learning advanced data analysis & bioinformatics  
+
+---
+
+## 🤝 Collaboration
+I’m looking to collaborate on:
+- Research projects  
+- Bioinformatics  
+- Data analysis using Python/R  
+- Open-source contributions  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: *kamol.mbio@gmail.com*  
+- 📞 Phone: *01775510351*  
+
+---
+
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-KamolDas-black?style=for-the-badge&logo=github)](https://github.com/KamolDas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KamolDas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamol-das-1h-7a4b0b1b7)  
+[![Facebook](https://img.shields.io/badge/Facebook-KamolDas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/kamol.das.5473)  
+[![Instagram](https://img.shields.io/badge/Instagram-kd_kamol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kd_kamol)  
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://pujacomputers.github.io/)  
+
+---
+
+## 📊 GitHub Stats
+
+![Kamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamolDas&show_icons=true&theme=default)
+
+---
+
+⭐ *“Passionate about science, technology, and continuous learning.”*
