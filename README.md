@@ -8,7 +8,7 @@ University of Chittagong, Bangladesh
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 I am a dedicated Microbiology graduate with strong academic knowledge and hands-on laboratory experience. I have a deep interest in:
 
@@ -18,7 +18,8 @@ I am a dedicated Microbiology graduate with strong academic knowledge and hands-
 - 📊 Quality Control  
 
 I am passionate about applying scientific knowledge to real-world challenges and continuously improving my technical and analytical skills.
-
+## 🧬 RSV Lab
+- RSV Lab Official Logo:https://doi.org/10.5281/zenodo.19209980
 ---
 
 ## 🚀 Skills & Tools
@@ -31,6 +32,7 @@ I am passionate about applying scientific knowledge to real-world challenges and
 - Arduino Projects  
 
 ### 🔬 Research Skills
+- Researcher in (RSV Lab) Clinical Microbiology Research Division
 - Microbiological Lab Techniques  
 - Data Analysis  
 - Internet Research & Journal Access  
@@ -43,6 +45,7 @@ I am passionate about applying scientific knowledge to real-world challenges and
 ---
 
 ## 🔭 Current Focus
+- Working on RSV Lab 
 - Working on improving my GitHub profile  
 - Learning advanced data analysis & bioinformatics  
 
