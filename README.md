@@ -74,10 +74,4 @@ I’m looking to collaborate on:
 
 ---
 
-## 📊 GitHub Stats
-
-![Kamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamolDas&show_icons=true&theme=default)
-
----
-
 ⭐ *“Passionate about science, technology, and continuous learning.”*
