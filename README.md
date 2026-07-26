@@ -23,6 +23,8 @@ I am a dedicated Microbiology graduate with strong academic knowledge and hands-
 I am passionate about applying scientific knowledge to real-world challenges and continuously improving my technical and analytical skills.
 ## 🧬 RSV Lab
 - RSV Lab Official Logo:https://doi.org/10.5281/zenodo.19209980
+- https://doi.org/10.5281/zenodo.20589848
+- https://doi.org/10.5281/zenodo.21534293
 ---
 
 ## 🚀 Skills & Tools
@@ -35,7 +37,7 @@ I am passionate about applying scientific knowledge to real-world challenges and
 - Arduino Projects  
 
 ### 🔬 Research Skills
-- Researcher in (RSV Lab) Clinical Microbiology Research Division
+- Researcher in (RSV Lab) Clinical Microbiology Research Division 
 - Microbiological Lab Techniques  
 - Data Analysis  
 - Internet Research & Journal Access  
