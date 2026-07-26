@@ -22,9 +22,9 @@ I am a dedicated Microbiology graduate with strong academic knowledge and hands-
 
 I am passionate about applying scientific knowledge to real-world challenges and continuously improving my technical and analytical skills.
 ## 🧬 RSV Lab
-- RSV Lab Official Logo:https://doi.org/10.5281/zenodo.19209980
-- https://doi.org/10.5281/zenodo.20589848
-- https://doi.org/10.5281/zenodo.21534293
+- RSV Lab Official Logo: https://doi.org/10.5281/zenodo.19209980
+- An Integrated Computational Framework for Antimicrobial Susceptibility Testing: https://doi.org/10.5281/zenodo.20589848
+- Machine Learning Analysis Reports: https://doi.org/10.5281/zenodo.21534293
 ---
 
 ## 🚀 Skills & Tools
