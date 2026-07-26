@@ -67,8 +67,11 @@ I’m looking to collaborate on:
 
 ## 📫 Contact Me
 
-- 📧 Email: *kamol.mbio@gmail.com*  
-- 📞 Phone: *01775-510351*  
+- 📧 Email: *kamol.mbio@gmail.com*
+- 📧 Email: *20605032@std.cu.ac.bd*
+- 📧 Email: *kamoldas45@gmail.com*
+- 📞 Phone: *01775-510351*
+- 📞 Phone: *01867-771598*
 
 ---
 
@@ -79,6 +82,7 @@ I’m looking to collaborate on:
 [![Facebook](https://img.shields.io/badge/Facebook-KamolDas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/kamol.das.5473)  
 [![Instagram](https://img.shields.io/badge/Instagram-kd_kamol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kd_kamol)  
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://pujacomputers.github.io/)  
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://orcid.org/0009-0004-2253-7527/)
 
 ---
 
