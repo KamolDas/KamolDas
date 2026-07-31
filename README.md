@@ -22,6 +22,7 @@ I am a dedicated Microbiology graduate with strong academic knowledge and hands-
 
 I am passionate about applying scientific knowledge to real-world challenges and continuously improving my technical and analytical skills.
 ## 🧬 RSV Lab
+[![Website](https://img.shields.io/badge/Website-RSVLab-green?style=for-the-badge&logo=google-chrome)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
 [![Website](https://zenodo.org/badge/DOI/10.5281/zenodo-RSVLab.svg)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
 
 - RSV Lab Official Logo: https://doi.org/10.5281/zenodo.19209980
