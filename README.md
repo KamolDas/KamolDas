@@ -83,7 +83,7 @@ I’m looking to collaborate on:
 [![GitHub](https://img.shields.io/badge/GitHub-KamolDas-black?style=for-the-badge&logo=github)](https://github.com/KamolDas)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KamolDas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamol-das-1h-7a4b0b1b7)  
 [![Facebook](https://img.shields.io/badge/Facebook-KamolDas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/kamol.das.5473)  
-[![Instagram](https://img.shields.io/badge/Instagram-kd_kamol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kd_kamol)  
+[![Instagram](https://img.shields.io/badge/Instagram-skd_kamol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/skd_kamol)  
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://pujacomputers.github.io/)  
 [![Website](https://img.shields.io/badge/Website-ORCiD-green?style=for-the-badge&logo=google-chrome)](https://orcid.org/0009-0004-2253-7527/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo-RSVLab.svg)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
