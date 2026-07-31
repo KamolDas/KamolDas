@@ -82,7 +82,9 @@ I’m looking to collaborate on:
 [![Facebook](https://img.shields.io/badge/Facebook-KamolDas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/kamol.das.5473)  
 [![Instagram](https://img.shields.io/badge/Instagram-kd_kamol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/kd_kamol)  
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://pujacomputers.github.io/)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo-RSVLab.svg)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
 [![Website](https://img.shields.io/badge/Website-ORCiD-green?style=for-the-badge&logo=google-chrome)](https://orcid.org/0009-0004-2253-7527/)
+
 
 ---
 
